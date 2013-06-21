@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/controllerScript.js">
+    <Files>
+      <File FileName="Assets/scripts/OSCReceiver.js" Line="52" Column="4" />
+      <File FileName="Assets/scripts/controllerScript.js" Line="6" Column="26" />
+      <File FileName="Assets/scripts/movieController.js" Line="5" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

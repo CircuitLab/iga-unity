@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: 2990f4bba75a13f498b2b1e7b72bad4c
+labels:
+- dynamite
+- tnt
+- weapon
+- army
+- military
+- mine
+- explosive
+- explosion
+- timer
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface1
+    100004: Strap3
+    100006: Wires
+    100008: Strap2
+    100010: Timer
+    400000: //RootNode
+    400002: polySurface1
+    400004: Strap3
+    400006: Wires
+    400008: Strap2
+    400010: Timer
+    2300000: polySurface1
+    2300002: Strap3
+    2300004: Wires
+    2300006: Strap2
+    2300008: Timer
+    3300000: polySurface1
+    3300002: Strap3
+    3300004: Wires
+    3300006: Strap2
+    3300008: Timer
+    4300000: Timer
+    4300002: Strap2
+    4300004: Wires
+    4300006: Strap3
+    4300008: polySurface1
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
